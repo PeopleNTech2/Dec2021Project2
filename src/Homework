@@ -1,0 +1,17 @@
+Homework 3:
+1- Create project: homwork-firstname-lastname (homework-sofiane-boumali) --> push all homeworks inside
+
+2- Factorial of 5! = 5 x 4 X 3 X 2 X 1 = 120.
+   Write a java program to find Factorial of a given number using Recursion as well as Iteration.
+
+3- Write 40 Fibonacci numbers with java.
+
+4- install MySQL and MongoDB
+    a. create DB of 10 students with first name, last name, student ID, gpa, grade --> MySQL (MySQL DB)
+    b. create DB of 10 employees with first name, last name, employee ID, salary, position --> MongoDB (non SQL)
+
+    help: https://www.w3schools.com/nodejs/nodejs_mongodb.asp
+
+5- 100 of CodeLab
+
+
