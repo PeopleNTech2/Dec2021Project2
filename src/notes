@@ -1,0 +1,17 @@
+data structure --> java collections framework / java map framework
+
+array is for small amount of data
+
+array is static --> array has to be predefined
+array list is dynamic --> grow dynamically based on need
+
+array list can have multiple data type
+
+list is a linear data structure
+array list data is defined in block (with index only)
+
+linked list is better for adding and removing (data manipulation)
+linked list data is defined in nodes (with node address/pointers)
+linked list can be singly linked or doubly linked
+
+set is not accepting duplication while array list does
