@@ -3,7 +3,7 @@ package datastructure;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UseArrayList {//ArrayList is a class --> java.util
+public class UseArrayList {//ArrayList is a class --> java.util -------------- number 2
     public static void main(String[] args) {
 
         List<String> lunch = new ArrayList();//**************************dynamic list

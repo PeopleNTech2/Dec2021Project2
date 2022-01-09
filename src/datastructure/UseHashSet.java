@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class UseHashSet {
+public class UseHashSet {// number 3
     public static void main(String[] args) {
 
         Set<String> hashSet = new HashSet<>();

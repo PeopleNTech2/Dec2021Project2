@@ -12,9 +12,9 @@ public class Array {
         lunch[2] = "Chocolate mousse";//data assignment [name[index] = value]
 //        lunch[3] = "coffee";//data assignment [name[index] = value]
 
-//        for (int i = 0; i < array.length ; i++) {
-//            System.out.println(array[i]);
-//        }
+        for (int i = 0; i < lunch.length ; i++) {
+            System.out.println(lunch[i]);
+        }
 
         System.out.println(lunch);
 //        for (String a: lunch) {
