@@ -14,4 +14,29 @@ Homework 3:
 
 5- 100 of CodeLab
 
+------------------------------------------------------------------------------------------------------------------------
 
+Homework 4:
+1- Create 10 junit tests (assert math function / string contains substring / arrayList contains value / map contains given value)
+    - you fail 3 test cases
+    - you pass 7 test cases
+
+2- exercise:
+array1: { 1, 3, 2, 4, 8, 9, 0 }
+array2: { 1, 3, 7, 5, 4, 0, 7, 5 }
+    a- transform these 2 arrays to set (hint)
+    b- find the union
+    c- find the intersection
+    d- find the symmetric difference
+
+3- create 10 test cases using the template shown in class - execute them update the status - get report (for single website)
+
+4- recreate 3 maps as the one shown in the class (key, list) - print all the value using for loop
+
+5- 100 codeLab exercises (total 350)
+
+optional: tic tac toe game
+
+x|o|x
+o|x|o
+o|x|o
